@@ -1,3 +1,4 @@
+import './styles.css';
 export const TextInput = ({ searchValue, handleChange }) => {
   return (
     <input
